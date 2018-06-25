@@ -1,0 +1,11 @@
+Commands used in GIT are :
+1> git init: It is used to create new local repository.
+2> git add <filname>: It is used to add files that are to be included in the nest commit.
+3> git commit -m "Commit message" : it commits any file that we have added using git add or commits any file that we have changed since then.
+4> git status : Lists the files that we have changed and those which we still need to add or commit.
+5> git push origin master : Sends changes to master branch of our repository.
+6> git checkout <branchname>: swicth from one brach to another.
+7> git checkout -b <branchname>: create a ne branch  and switch to it.
+8> git pull: fetch and merge changes on server to present working directory.
+9> git log: shows the commit id along with all the history and time stamp.
+10> git remote add origin <server>:to connect remote server to be abble to puch to it.s
